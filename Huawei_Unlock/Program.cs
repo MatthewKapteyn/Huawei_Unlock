@@ -18,6 +18,10 @@ namespace Huawei_Unlock
             Debug.WriteLine(Test.HW_ALGO_SELECTOR("This_is_a_15_digit_imei_jk"));
 
             Debug.WriteLine(Test.HW_ALGO_SELECTOR("and now we do this, without submodules"));
+
+            Debug.WriteLine("This is a second change made via SubmoduleTest.");
+
+            Debug.WriteLine("This is a third change made via SubmoduleTest. See what's so big about GiTower");
         }
 
         
