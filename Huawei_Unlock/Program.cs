@@ -16,6 +16,8 @@ namespace Huawei_Unlock
             Debug.WriteLine("Hello World, this is a change made in the project named SubmoduleTest");
 
             Debug.WriteLine(Test.HW_ALGO_SELECTOR("This_is_a_15_digit_imei_jk"));
+
+            Debug.WriteLine(Test.HW_ALGO_SELECTOR("and now we do this, without submodules"));
         }
 
         
